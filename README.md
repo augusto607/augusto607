@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @augusto607
+IT Engineer → Full-Stack Developer
+Python | React | Docker | APIs
 
-<!---
-augusto607/augusto607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building a full-stack ticket platform (FastAPI + React)
+Focused on clean architecture, authentication (JWT), and DevOps fundamentals.
+
+Learning by building real systems
